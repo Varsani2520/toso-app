@@ -72,7 +72,7 @@ const App = () => {
         source={{
           uri: "https://t4.ftcdn.net/jpg/02/18/12/59/360_F_218125902_9k6teJpNNQCcg4YgMI3HypyTUNMCRkdR.jpg",
         }}
-        style={{ height: 100, width: "100%", marginBottom: 20 }}
+        style={{ height: 100, width: "100%", marginBottom: 30 }}
         resizeMode="cover"
       />
 
